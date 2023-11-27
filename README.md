@@ -1,7 +1,7 @@
 # IVYKIDS_YELLOW_CLASS_ASSIGNMENT
 # Introduction
 Here we are exploring Customer Chunk Dataset to analyze the proportion of customer which are at higher risk of Churn and what changes need to be done to reduce the proportion.
-#Exploring the Data
+# Exploring the Data
 It help us in understanding the data like shape of data_set(7043, 21), various attributes and how we have to change our working potential in order to reduce the Churn .
 # Visualising for missing values
 First we will convert TotalCharges to numeric from float in order to find the missing values.
